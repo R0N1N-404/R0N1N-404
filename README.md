@@ -54,24 +54,10 @@ React.js • React Native • Node.js • Java • Spring Boot • NestJS • PH
 - AWS
 - Azure
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=CorsaAroCromado&show_icons=true&theme=jolly&hide=issues"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CorsaAroCromado&layout=compact&theme=jolly"/>
-
-</div>
-
----
-
 ## 🌐 Contato
 
-📧 Email: bhpm311@gmail.com  
-💬 Discord: https://discord.gg/GpKA2w5y
+Email: bhpm311@gmail.com  
+LinkedIn: www.linkedin.com/in/bruno-henrique-pires-maia-268383274
 
 ---
 
