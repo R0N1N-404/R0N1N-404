@@ -58,11 +58,3 @@ React.js • React Native • Node.js • Java • Spring Boot • NestJS • PH
 
 Email: bhpm311@gmail.com  
 LinkedIn: www.linkedin.com/in/bruno-henrique-pires-maia-268383274
-
----
-
-## 🐍 Contribuições
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CorsaAroCromado/CorsaAroCromado/output/github-contribution-grid-snake.svg">
-</p>
